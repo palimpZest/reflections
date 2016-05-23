@@ -9,8 +9,10 @@ change?
 	The staging area can be used to vizualise the changes and see the integrated differences in a file before commiting the changes. This
 	allows to see if the changes are logical.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches would be helpful if I wanted to experiment in a program Id'be writing. For example with a new functionnality.
+	In that particular case, branches would allow me to confiden-
+	tly make those new additions, or compare those two branches.
 
 How do the diagrams help you visualize the branch structure?
 
