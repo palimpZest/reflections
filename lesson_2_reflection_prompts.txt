@@ -15,6 +15,10 @@ What are some situations when branches would be helpful in keeping your history 
 	tly make those new additions, or compare those two branches.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams are very useful to have a global panorama of the
+	branches's structure. Having a representation of that "tree"
+	is very useful and also a very useful tool for programmming
+	and collaborating with others.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
