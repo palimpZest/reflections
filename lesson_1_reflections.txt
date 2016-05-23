@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By presenting the places where there there is a difference in the two files, I could
+pinpoint the differences.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Having this kind of access is very important bcause it allows to see how I corrected some errors in my writing. This is very useful to learn and, thus increasing my
+efficiency as a programmer, as well as saving precious time.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    One pro of this would be that, as a conceiver of a program, you can think about how other programmers, or people in general will understand the code, and the steps it took to conceive it. A con would be not to commmit after a long streak of work. This would meke hard for that code to be undestood without a very careful examination.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because files that use Git are interdependent and are a part of a structure. The function together. In Google Docs, it's different. It's important that the information is not changed in another file if you are making a change in the one you are transforming.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows to have a panorama of all the commits on an entire repository by indexing, for each commit, a number, its author, aq date and an explanation. The git diff command allows to pinpoint the differences between commits. So the exact places were changes had been made.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control is very important because it allows to experiment freely without having fears about breaking the whole system, or erasing essential parts of a program. Using this tool, it is possible to o back and corrrect errors, it builds confidence as a programmer too.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to create programs using Python and a Portfolio Wesite using an HTML, CSS and JS repository.
