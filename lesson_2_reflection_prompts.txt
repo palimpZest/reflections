@@ -27,5 +27,5 @@ What is the result of merging two branches together? Why do we represent it in t
 	to see the changes and the things we are changing, with relation to the repository, if they are represented in such diagram.
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	The pros of automatic merging are that it is a very useful way to merge the work from many person on a single repository, easily, and quicky. Always doing the merges manually would take too many time and errors would be easy to make. It's great that Git can pinpoint the places were conflicts exists, allowing the programmer to chose which changes to make, and eliminating the possibility of bugs and repetition.
