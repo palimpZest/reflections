@@ -1,31 +1,28 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 	A git object is created inside the directory. In order to keep track of the files inside.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
 	The staging area is a space between the directory and git. You can add files from the directory in the repository. It allows to commit only the files we want to have versions of.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
 	The staging area can be used to vizualise the changes and see the integrated differences in a file before commiting the changes. This
 	allows to see if the changes are logical.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	Branches would be helpful if I wanted to experiment in a program Id'be writing. For example with a new functionnality.
-	In that particular case, branches would allow me to confiden-
-	tly make those new additions, or compare those two branches.
+
+	Branches would be helpful if I wanted to experiment with a program I'd be writing. For example, with a new functionnality. In that particular case, branches would allow me to confidently make those new additions, or compare those two branches.
 
 How do the diagrams help you visualize the branch structure?
-	Diagrams are very useful to have a global panorama of the
-	branches's structure. Having a representation of that "tree"
-	is very useful and also a very useful tool for programmming
-	and collaborating with others.
+
+	Diagrams are very useful to have a global panorama of the branches's structure. Having a representation of that "tree" is very useful and also a very useful tool for programmming and collaborating with others.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-	The result of merging two branches together is that all the
-	commits from these two branches become one single branch,
-	the commits being organised inside by timestamp. It's easier
-	to see the changes and the things we are changing, with relation to the repository, if they are represented in such diagram.
 
+	The result of merging two branches together is that all the commits from these two branches become one single branch, the commits being organised inside by timestamp. It's easier to see the changes and the things we are changing, with relation to the repository, if they are represented in such diagram.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-	The pros of automatic merging are that it is a very useful way to merge the work from many person on a single repository, easily, and quicky. Always doing the merges manually would take too many time and errors would be easy to make. It's great that Git can pinpoint the places were conflicts exists, allowing the programmer to chose which changes to make, and eliminating the possibility of bugs and repetition.
+
+	The pros of automatic merging are that it is a very useful way to merge the work from many persons on a single repository easily, and quicky. Always doing the merges manually would take too many time to do, and errors would be easy to make. It's great that Git can pinpoint the places were conflicts exist, allowing the programmer to chose which changes to make, and eliminating the possibility of bugs and repetition.
