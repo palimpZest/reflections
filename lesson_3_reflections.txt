@@ -7,13 +7,16 @@ automatically stay up-to-date with your remote repository?
 
     I might want to check the modifications first or approuve the ones suggested by others before including them in the local repository. If it's automatic it would be more difficult to control the versions.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    Forks are copies of repositories within GitHub. If one user wants a copy of a repository on his profile, he can just fork it. This allows him to make personal changes to the fork without changing the "official" repository.
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+    Clones are copies of a repository that can be local or external.
+    A user could clone a repository that already exists on his computer to another directory inside his computer. But he can also clone a repository to his computer from GitHub. He uld use this when he wants to work from his computer andmaybe add his changed to the clone afterwards.
+
+    Branches exist within a repository. There's the master branch and the adjacent branches. These are versions of a file that run parralel in the timeline of the main repository branch. They can be used for testing features or conceiving new updates in a project. if they are not a part of the main branch, they won't necessarily appear on GitHub if the master branch is pushed.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
     Fill in your answer here
 
