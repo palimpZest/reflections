@@ -23,7 +23,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use another tool like Dropbox or Google Drive if I were to collaborate with a group on a project without Git or GitHub. In that case, it would be easier to save changes, which are even done automatically. However, it would be hard to have a trace of all the changes, its authors and its specific dates and times. That's why Git is a very useful tool for programmers and developpers. It saves a huge amount of time if used correctly.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
