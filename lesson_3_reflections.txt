@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in a separate branch rather than directly in master when I would like to propose a modification to the people I'm collaborating with on Github. This is step to take in order for them to review the changes before deciding to integrate them in the master branch. Even if there are more steps to follow in order to complete the merging into master, by making changes in a separate branch, all the potential conflicts can be resolved before this merge. This method seems more suited for collaboration. Making changes directly in master seems to be a more faster and straighforward method, but it could lead to errors or unnoticed problems in the project. Especially if a great number of collaboratorsa are involved.
